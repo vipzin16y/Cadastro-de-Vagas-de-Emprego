@@ -1,81 +1,101 @@
-🚀 Cadastro de Vagas de Emprego
+# Cadastro de Vagas de Emprego
 
-Projeto desenvolvido com HTML, CSS e JavaScript puro, com foco em boas práticas iniciais de desenvolvimento front-end e lógica de programação.
+Uma aplicação simples para **gerenciamento de vagas de emprego**, desenvolvida com **HTML, CSS e JavaScript**, permitindo cadastrar vagas, listar oportunidades, inscrever candidatos e excluir registros diretamente no navegador.
 
-A aplicação simula um sistema simples de gerenciamento de vagas, permitindo criar vagas, inscrever candidatos e gerenciar informações diretamente no navegador, utilizando armazenamento local.
-
----
-
-🧩 Funcionalidades
-
-✔️ Cadastro de vagas de emprego
-✔️ Listagem dinâmica de vagas
-✔️ Inscrição de candidatos por vaga
-✔️ Exclusão de vagas
-✔️ Contagem automática de candidatos
-✔️ Persistência de dados com LocalStorage
-✔️ Interface com modo claro e modo escuro (Dark Mode)
+O projeto foi criado com foco em **lógica de programação**, **organização de código**, **boas práticas iniciais de front-end** e **interação com o usuário**.
 
 ---
 
-🛠️ Tecnologias Utilizadas
+## 🚀 Funcionalidades
 
-HTML5
-CSS3
-JavaScript (ES6+)
-LocalStorage
+* Cadastro de novas vagas de emprego
+* Listagem de vagas disponíveis
+* Visualização de detalhes de uma vaga
+* Inscrição de candidatos em vagas
+* Exclusão de vagas cadastradas
+* Controle de candidatos por vaga
+* Modo claro e modo escuro
+* Interface simples, limpa e intuitiva
 
 ---
 
-📁 Estrutura do Projeto
+## 🛠️ Tecnologias Utilizadas
 
-projeto-vagas
+**HTML5**
+
+* Estrutura semântica
+* Organização de componentes
+
+**CSS3**
+
+* Layout responsivo
+* Estilização moderna
+* Implementação de Dark Mode
+
+**JavaScript**
+
+* Lógica de programação
+* Manipulação de arrays e objetos
+* Funções e eventos
+* Manipulação do DOM
+
+---
+
+## 📂 Estrutura do Projeto
+
+```
 ├── index.html
 ├── style.css
-└── index.js
+├── index.js
+└── README.md
+```
 
 ---
 
-▶️ Como Executar o Projeto
+## 💻 Como executar o projeto
 
-Clonar ou baixar o repositório
-Abrir o arquivo index.html em um navegador moderno
-A aplicação estará pronta para uso, sem necessidade de dependências
+1. Clone o repositório:
 
----
+```
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
 
-🎯 Objetivo do Projeto
+2. Acesse a pasta do projeto:
 
-Este projeto foi criado com o objetivo de demonstrar conhecimentos fundamentais de desenvolvimento web, incluindo:
+```
+cd nome-do-repositorio
+```
 
-Lógica de programação
-Manipulação de arrays e objetos
-Funções e escopo
-Eventos e interação com o usuário
-Manipulação do DOM
-Armazenamento local no navegador
-
-Ideal para demonstrar capacidade de organização de código, resolução de problemas e compreensão de conceitos essenciais do JavaScript.
+3. Abra o arquivo `index.html` no navegador
+   *(não é necessário servidor)*
 
 ---
 
-📌 Próximas Melhorias (Roadmap)
+## 🧠 O que foi praticado neste projeto
 
-🔐 Validação avançada de formulários
-🗂️ Filtro e busca de vagas
-🧪 Tratamento de erros e mensagens amigáveis
-📱 Melhorias de responsividade
-🔄 Integração futura com API
-
----
-
-📜 Licença
-
-Este projeto está licenciado sob a Licença MIT, permitindo uso, modificação e distribuição.
+* Lógica de programação em JavaScript
+* Uso de funções para organização do código
+* Manipulação de arrays e objetos
+* Interação com o usuário via `prompt`, `alert` e `confirm`
+* Manipulação do DOM
+* Implementação de modo escuro
+* Separação de responsabilidades entre HTML, CSS e JS
 
 ---
 
-👨‍💻 Desenvolvido por
-Vinicios Nogueira
+## 🎯 Objetivo do Projeto
 
-📎 Projeto criado para fins educacionais e para compor portfólio profissional.
+Este projeto foi desenvolvido com o objetivo de **praticar conceitos fundamentais do desenvolvimento web**, simulando um sistema simples de cadastro de vagas de emprego, comum em aplicações reais, reforçando lógica, organização e clareza de código.
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença **MIT** e pode ser utilizado livremente para estudos e aprendizado.
+
+---
+
+## ✨ Autor
+
+Desenvolvido por **Vinicios Nogueira**
+Em constante aprendizado em desenvolvimento web 🚀
