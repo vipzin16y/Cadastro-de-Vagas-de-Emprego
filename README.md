@@ -57,7 +57,7 @@ O projeto foi criado com foco em **lógica de programação**, **organização d
 1. Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/vipzin16y/cadastro-de-vagas-de-emprego.git
 ```
 
 2. Acesse a pasta do projeto:
